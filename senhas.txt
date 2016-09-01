@@ -1,0 +1,5 @@
+Senha de ambiente de geração de APK: simpress123 (senha de ambiente)
+
+Key Store Password: simpress123 
+Key Alias: Simpress Mobile Info
+Key Password: simpress123 
